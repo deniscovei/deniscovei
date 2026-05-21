@@ -1,6 +1,6 @@
 Hi, I'm Denis Covei, a software engineer based in Bucharest and a computer science student at **POLITEHNICA University of Bucharest**.
 
-I like building things, playing music, and bouldering.
+I like building things, playing guitar, singing, and bouldering.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="48" height="48" />
