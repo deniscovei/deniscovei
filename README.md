@@ -1,31 +1,28 @@
 <div align="center">
 
-# Hi, I'm Denis Covei
-
-Student at **POLITEHNICA University of Bucharest**
-
-I like building things, learning how systems work, music, and bouldering.
-
-[LinkedIn](https://www.linkedin.com/in/denis-covei/) · [GitHub](https://github.com/deniscovei)
-
-</div>
-
 ## About Me
 
-I'm a computer science student interested in software, systems, networking, and practical projects that help me understand things better by building them.
+Hi, I'm Denis Covei, a computer science student at **POLITEHNICA University of Bucharest**.
 
-Outside of code, I enjoy music and bouldering. One keeps me moving mentally, the other keeps me moving physically.
+I like building things, playing music, and bouldering.
 
-## What I'm Exploring
+<br>
 
-- Systems programming
-- Web tools and browser extensions
-- Networking
-- Numerical methods
-- Automation and CI/CD
-- Security-related experiments
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="54" height="54" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="54" height="54" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="54" height="54" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="54" height="54" />
+</p>
 
-## Technologies
+<p>
+  <strong>C</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>C++</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Java</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <strong>Python</strong>
+</p>
 
-```text
-C · Python · JavaScript · Go · MATLAB · Java · C# · Git · Linux
+</div>
