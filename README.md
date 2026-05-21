@@ -1,4 +1,4 @@
-Hi, I'm Denis Covei, a software engineer based in Bucharest and a computer science student at **POLITEHNICA University of Bucharest**.
+Hi, I'm Denis Covei, a software engineer based in Bucharest and a computer science student and teaching assistant at **POLITEHNICA University of Bucharest**.
 
 I like building things, playing guitar, singing, and bouldering.
 
